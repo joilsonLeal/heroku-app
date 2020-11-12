@@ -6,6 +6,9 @@
   "author": "joilson <joilson_rg@hotmail.com>",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
