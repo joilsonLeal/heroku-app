@@ -1,0 +1,12 @@
+{
+  "name": "heroku-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joilsonLeal/heroku-app.git",
+  "author": "joilson <joilson_rg@hotmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
