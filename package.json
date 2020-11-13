@@ -7,14 +7,13 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
+    "start": "nodemon src/index.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.6",
-    "dotenv": "^8.2.0"
+    "nodemon": "^2.0.6"
   }
 }
